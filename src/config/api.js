@@ -4,7 +4,6 @@ export const API = axios.create({
 
 	baseURL: 'http://api.ahmad.studentdumbways.my.id/api/v1'
 
-	baseURL: 'https://api.team2.studentdumbways.my.id/api/v1'
 });
 
 // Alter defaults after instance has been created
