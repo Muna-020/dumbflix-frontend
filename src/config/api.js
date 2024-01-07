@@ -2,7 +2,7 @@ import axios from 'axios';
 // Set config defaults when creating the instance
 export const API = axios.create({
 
-	baseURL: 'http://api.ahmad.studentdumbways.my.id/api/v1'
+	baseURL: 'http://api.team2.studentdumbways.my.id/api/v1'
 
 });
 
